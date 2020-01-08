@@ -1,5 +1,5 @@
 # mdh-nrsfm
-MDH-NRSfM Matlab implementation with SOCP
+MDH-NRSfM by SOCP (Matlab implementation)
 A. Chhatkuli, D. Pizarro, T. Collins and A. Bartoli
 
 # Related links
