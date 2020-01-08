@@ -1,2 +1,15 @@
 # mdh-nrsfm
-MDH-NRSfM Matlab implementation
+MDH-NRSfM Matlab implementation with SOCP
+A. Chhatkuli, D. Pizarro, T. Collins and A. Bartoli
+
+# Related links
+http://igt.ip.uca.fr/~ab/Research/index.html
+
+# Requirements
+Download Mosek and YALMIP toolboxes
+
+# Paper links
+http://igt.ip.uca.fr/~ab/Publications/Chhatkuli_etal_CVPR16.pdf
+http://igt.ip.uca.fr/encov/publications/pubfiles/2017_Chhatkuli_etal_PAMI_nrsfm.pdf
+
+
